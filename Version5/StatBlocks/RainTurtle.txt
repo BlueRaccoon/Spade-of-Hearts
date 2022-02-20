@@ -1,0 +1,56 @@
+•Soaked: Weak (+1) to Shock; Resist Fire; DIS vs being Knocked Down
+
+==	==	Rain Turtle 	==	==
+Rain Turtle
+[ T0 • S1 • Elemental(Water) Beast ]
+♧2 	♤2		🞧6	⛊3R♡3	♢1		⚔11	♞3
+`Skills
++3: *Water
++2: Survival • Endure • Aim
++1: *Beast • Empathy • Stealth
+`Passive
+•Fly	•Swim
+•Resist: Suffocate, Buffet
+`Weapons
+Bite	+3 • ⚒2(2) • ⇗0-0 • OnCrit:Grab
+`Techniques
+◉Withdraw: Reduce Physical Damage by 3. Become Blind.
+◆◇SpinTackle: Throw yourself at a target as a Ranged Attack
+	+4 • 3(2) • ⇗2-4
+`Spells	(+6)
+◆Drench 	[T0 Water]
+	One target below you is Soaked (Spell as Ranged Attack, ⇗2-8)
+	Weak (+1) to Shock; Resist Fire; DIS vs being Knocked Down
+◉Rain 		[T1 Water]
+	Form an area of Rain around you (6m/Tier, x2 outdoors)
+	• ADV to Water, DIS to Fire
+	• Extinguish Fires (Reduce Fires by 1T/Round)
+	• Disperse gasses; obscure Smell
+◉MistCover	[T1 Water]
+	Create a 12m space of mist or a 6m space of heavy mist
+	• Heavy mist obscures Vision more than 2m away
+	• Light mist obscures Vision more than 6m away
+
+
+◆Drench 	[T0 Water]
+◆◇Waterfall	[T2 Water]
+↻Quench 	[T1 Water]
+
+==	==
+[Shelled Beast T0]
+Resist Buffet
+◉Withdraw: Reduce Physical Damage by 3. Become Blind.
+◆◇SpinTackle: Throw yourself at a target as a Ranged Attack
+	+4 • ⚒3(2) • ⇗2-4
+
+[Shelled Beast T1]
+[T0]
+[T1] Resist Slash
+
+[Rain Spirit]
+[T0] Resist Suffocate
+[T1] Immune Suffocate
+	~~~
+Drench	Soak	Souse	
+Flood	Deluge	Slosh	Splash	Hose
+Quench	Douse

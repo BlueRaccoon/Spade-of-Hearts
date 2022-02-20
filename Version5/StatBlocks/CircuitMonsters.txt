@@ -1,0 +1,205 @@
+
+
+
+==	==	Adv Trait: Commander	==	==
+Your voice and presence bring strength and comfort to your allies in hectic and chaotic situations.
+• Allies who can hear you have Fortune on Will Saves
+• Once each round, you may draw an additional Initiative Card. You may replace any of your ally's Initiative with that card (as long as that ally can hear your voice).
+
+Choose 2 of the following Techniques:
+[ The following stunts require a willing ally. You must be able to see and communicate with them. You may not order yourself. ]
+↻ Support Cry : If an ally would be Injured, reduce the damage they take by [Presence or Empathy]
+↻ Coordinate Timing : Swap Initiative Cards with a willing ally.
+◇ Coordinate Attack : When you attack an enemy this turn, one ally may make a ↻FreeAttack against that enemy.
+◆ Coordinate Movement : Tactically reposition your allies. Up to ♡+Perception Allies you see can move up to ♢ Meters.
+◆ Command : Command your allies (up to ♡+Presence allies) to take a specific action. Until the end of this round, your allies have Advantage on that action.
+↻ Perfect Sync : [STUNT] Give your turn this round to  willing ally
+↻ Inspiring Word : [STUNT] One ally immediately regains use of a Stunt, or else is able to use a Stunt this round without exhausting it. They may still only use one Stunt per round.
+◆◇ Assault Order : [STUNT] Up to ♡+Presence Allies may use a ↻Reaction to move up to 1m and Attack.
+
+==	==	Stone Sentinel	==	==
+Stone Sentinel
+[ T2 • S4 • Animate Security ]
+♧4  ♤2		🞧11	⛊4R 2B
+♡3  ♢1		⚔ 8	♞ 2
+==	Skills
++4: Endure
++2: Fight 
+==	Passive
+Immune:	Mental, Suffocate, Poison, Influence
+Automoton: Will not leave its station.
+Extrasense: Scry
+==	Weapon
+StoneShield		↻Shield(4) + Cover
+GiantStoneSword	+6 • ⚒5(3) • ⇗1-2 • Sweep • Knockdown+ on Crit
+==	Techniques
+◇Multi-Act : At the end of your turn, you may Attack/Brawl as a Minor Action, as long as you attack an enemy tou have not attacked this turn.
+•Overdrive : On First Injury, perform LaserSketch. On Second Injury, recharge Laser Sketch. Take 2 Turns next round.
+◆◇LaserSketch : [Stunt] [T2 BAL] 
+	A red eye glows. Deal an extra initiative card for next round: this attack concludes on that card.
+	Trace a line between two points you can see. As a Burst Attack, deal 6+1⚄ Damage in that area. Targets in cover or more than 6m from the lines start have Advantage on their saves.
+
+
+==	==	Blackroach	==	==
+[ T0 • S1 • Voidling Insect ]
+♧1  ♤3		🞧 2	⛊ 0
+♡1  ♢1		⚔11	♞ 3
+==	Skills
++2: Stealth • *Insect • *Void
+==	Passive
+Extrasense: Smell, Scry, Touch
+Scurry : Moving does not trigger Free Attacks from enemies 2+ sizes larger
+Shadow Walk : When Hiding in a dark or shadowed area, you can move to any shadow in a 6m area.
+==	Weapon
+Bite	+5 • ⚒2(2) • ⇗0-0 • On Crit: Poison [T1 ♡♢Strain]
+==	Techniques
+◆Scream: Deal 3 Mental Damage to one adjacent creature. (♡Will Reduces) On Injury, target takes 1 ♡♢Strain
+↻Chorus: An adjacent enemy takes +1 Mental Damage this turn
+
+==	==	Gizmit	==	==
+Gizmit
+[ T0 • S2 • Animate Gizmo ]
+♧1  ♤2		🞧 2	⛊ 0
+♡3  ♢2		⚔11	♞ 4
+Skills
++3: *Lightning
++2: Athletics • Inginuity
+Passive
+Wheels : Free Attacks against you have Disadvantage. Can't cross Difficult Terrain.
+Weapons
+Ram		+4 • ⚒2(2) • ⇗0-0 • Must move at least 1m before using • Push 2
+Spells
+↻Static [T0 Lightning]
+	Deal [LIT-1] damage to anyone in contact with you
+◆◇ArcSpark [T0 Lightning]
+	Ranged: ⚒LIT(1⚄) • 0-3m • Hits a new target on Crit
+◆◇ThunderJump [T1 Lightning]
+	Leap through the air, up to [LIT+Tier] meters, ignoring Reaction. Deal T+T⚄ as a Burst Attack below your jump.
+
+
+==	==	Clayboar	==	==
+[ T0 • S2 • Elemental Beast ]
+♧3  ♤2		🞧 8	⛊ 3
+♡3  ♢1		⚔10	♞ 4
+==	Skills
++3: Endure
++2: Athletic • *Beast • Presence
+==	Passive
+Clayskin	: While standing upright on Earth, recover ♡ Armor on your turn
+==	Weapon
+Tusks		+5 • ⚒3(3) • ⇗0-0 • Pierce:2
+==	Technique
+◇Sprint		: Move up to 5m in a straight line
+◇Overbear 	: Grab+KnockDown (Brawl) after landing a Melee Attack
+◇Trample	: Move, deal 3dmg to Knocked Down targets
+◆◇Charge	: Move 3m in a line and Attack. Extra damage = distance moved.
+
+
+==	==	Sapling Knight	==	==
+Sapling Knight
+[ T0 • S3 • Animate Spirit ]
+♧3  ♤3		🞧 8	⛊ 3
+♡2  ♢1		⚔11	♞ 4
+==	Skills
++3: Fight • *Forest
++2: Athletic • Will
+==	Passive
+Vine Limbs	All attack ranges +1 (inclusing Brawl)
+==	Weapon
+NobleBranch	+6 • ⚒5(3) • ⇗1-1
+==	Technique
+↻Parry	: Increase ⚔Defense by 3 against one attack
+◇Roots : Planted(◆) Create up to 3m of Difficult Terrain within 6m (on earth surface)
+◇MixedStrike: Make a Melee, Brawl, or Ranged attack after making a different type of attack (1/Turn)
+==	Later On:
+◆◇Flurry
+◇Brawler
+◇Compact: Deal 1⚄ Crush damage to a Grabbed target
+◇Focus
+↻Riposte: Retaliate with a Melee Attack when an attack misses you
+
+==	==	SteelGander		==	==
+SteelGander
+[ T0 • S2 • Beast ]
+♧2  ♤2		🞧 7	⛊ 3R B1
+♡3  ♢1		⚔12	♞ 3
+Skills
++3: Presence
++2: *Beast • Fight
+Passive
+Steelfeathers	All Brawl rolls against SteelGander have Backfire(2)
+Heavy Flight: Can fly with a 6m running head start, Otherwise only glides.
+Weapons
+Beak		+4 • ⚒3(2) • ⇗0-1
+Techniques
+↻WingGuard	: Shield(2)
+◇Menace		: Threaten a target 2-6m away ( ♧♤Presence vs ♡Will ). On sucess, target takes 1/T Mental damage. On failure, that target can't be affected again until ☀Rest.
+◆Dominance	: Stare down a target 2-6m away (Opposed ♧♡Presence). On success, let out a cry that deals 1⚄ Mental damage.
+◆◇Wingknife	: Melee Attack [+4 • ⚒3(2) • ⇗1-2]; Sweep
+
+
+==	==	==	==	==	==	==
+
+Kaji (Emberwolf)
+[ T0 • S2 • Elemental(Fire) Beast ]
+♧1  ♤2		🞧 5	⛊ 0
+♡2  ♢1		⚔10	♞ 3
+Skills
++3: *Beast
++2: Presence • Perception • *Fire
+Passive
+Darkvision	See 6m in Darkness
+Extrasense(Smell)
+Fireproof	Resist 3 Fire/Round
+Weapons
+Claws	+6 • ⚒2(3) • ⇗0-1
+Bite	+6 • ⚒3(2) • ⇗0-0 • Keen
+Techniques
+↻PackHunt 	: Retaliate when a Flanked enemy attacks your ally
+◇Sprint 	: Move 5m in a line
+◆Takedown	: Bite; Grab or Knockdown on Crit
+◆Harry		: Attack (no Base Damage) : Disrupt on hit
+Spells
+◆◇ Firebreath [T1 Fire]
+	+4 • ⚒T+T⚄(2) • 3x5m Blast
+	Leaves behind 1⚄ Embers (T0 Haz.Terrain)
+
+==	==	Goblins	==	==
+Gorbik the Prophet
+[ T0 • S2 • Inhuman Goblin ]
+♧1  ♤2		🞧5	⛊0
+♡2  ♢1		⚔10	♞3
+Skills
++2: Stealth
++1: Fight • Aim • Benediction
+Darkvision	See 6m in Darkness
+Clamber 	Ignore most Difficult Terrain
+Weapons
+CheapSwd	+3 • ⚒2(3) • ⇗0-1
+Sling		+3 • ⚒2(3) • ⇗1-3
+Techniques
+◇Nimble 	Hide, Escape, or Move 2m+Take Cover
+◆Suprise	Make an Ambush Attack with Keen (Crits on 5/6)
+
+Goblin Cult
+[ T1 • S3 • Inhuman Goblin Squad ]
+♧1  ♤3	:	🞧4	⛊0
+♡1  ♢1	:	⚔10	♞3
+Skills
++2: Stealth • Perception
++1: Fight • Aim • Survival
+Traits
+Darkvision	See 6m in Darkness
+Clamber 	Ignore most Difficult Terrain
+Squad
+• Weak: Burst / Sweep attacks
+• 1 Vital/Member
+• Can't be Flanked
+• 3+ Members: All attacks Flurry (attack 2x)
+• 6+ Members: +1 Damage; +1 Reaction
+Weapons
+CheapSwd	+3 • ⚒2(3) • ⇗0-1
+Sling		+3 • ⚒2(3) • ⇗1-3
+Techniques
+◇Nimble 	Hide, Escape, or Move 2m+Take Cover
+◆Suprise	Make an Ambush Attack with Keen (Crits on 5/6)

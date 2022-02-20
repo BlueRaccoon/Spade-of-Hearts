@@ -1,0 +1,83 @@
+**Gizmit**
+*[Miniature(S1) Animate]*
+```md
+#    Attributes      #
+  [♣Body ]( 1 ) [♠Grace]( 2 )
+  [♥Heart]( 3 ) [♦Mind ]( 2 )
+
+  [✚Health ]( 5) [⛊Armor]( 1B )
+  [⤩Defense](12) [♞Speed]( 4 )
+
+#	Skills	#
++3: *Lightning
++2: Athletics • Inginuity
+
+#    Weapons     #
+[+4](Ram) ♣♠ • 2:2 • 0-0 • Must move >1m before using
+
+#	Magic	#
+Mana: Lightning 3
+[T0•Lit](Static) ↻ Deal 2 damage to anyone in contact
+[T0•Lit](ArcSpark) ◆◇ Ranged Attack - Dmg:Lit(1d6) Range:0-3+; Hits a new target on Crit
+[T1•Lit](ThunderJump) Leap up to [Lit+Tier] meters, ignoring Reaction. Make a Burst Attack dealing [3+Td6] damage in the area you jumped over.
+[T2•Lit](Lightning) Fire a 12m bolt of lightning, dealing 3+Td6 damage and Disrupting targets (Save vs Tier). Stuns on Injury.
+```
+
+==	==	==	==
+
+**Slipstream Lizard**
+*[Tiny(S0)-Large(S4) Elemental Beast(Distortion)]*
+```md
+#    Attributes      #
+  [♣Body ]( 2 ) [♠Grace]( 3 )
+  [♥Heart]( 1 ) [♦Mind ]( 3 )
+
+#	Stats/Large:S4	#
+  [✚Health ]( 7) [⛊Armor]( 2 )
+  [⤩Defense](12) [♞Speed]( 4 )
+#	Stats/Medium:S3	#
+  [✚Health ]( 6) [⛊Armor]( 2 )
+  [⤩Defense](13) [♞Speed]( 4 )
+#	Stats/Tiny:S0		#
+  [✚Health ]( 3) [⛊Armor]( 0 )
+  [⤩Defense](15) [♞Speed]( 3 )
+
+#    Skills        #
++4: Athletic
++3: *Distortion • Survival
++2: *Beast • Stealth
+
+#    Weapons (Large)     #
+[+7](Tail Whip) ♣♠ • 2:4 • 1-3 • Reach, Sweep
+[+7](Bite     ) ♣♠ • 3:3 • 0-0 • Unarmed
+#    Weapons (Medium)     #
+[+7](Tail Whip) ♣♠ • 1:4 • 1-2 • Reach
+[+7](Bite     ) ♣♠ • 2:2 • 0-0 • Unarmed
+```
+
+
+```md
+#    Traits & Techniques        #
+[Trait](Spiderclimb) Walk along walls/ceilings like normal terrain. Fall if Knocked Down or Disrupted.
+[Trait](Clamber) Ignore most Difficult Terrain
+[Trait](Mount) Can be easily ridden by allies 1 size smaller (Bonus Action to mount/dismount).
+>> Note: Can not use Spiderclimb or travel through Portals while being ridden.
+
+[◇](Nimble) Hide, Escape, or Move 2m & Take Cover
+[◆](Suprise) Make an Ambush Attack +Keen
+[Stunt](Sucker Punch) [Trick] Turn a normal Melee Attack into a Sucker Punch. It has Advantage, is Keen, and Stuns on Crit (Save: ♥END vs Attack)
+
+#	Magic	#
+Mana: Distortion 4
+[T2•Dis](Size Warp)
+	◆ Create and leap through a special portal (leading up to 4m away). When leaving the portal, you are a new size (between Tiny/0 and Large/4). You do not recover Health, Mana, or Strain from rest while size-shifted (as though Concentrating)
+	◇ Leap through a portal 1m away that reverts you to your original size (Cast for free)
+[T1•Dis](Slipstream) Create and leap through an adjacent portal, leading to a space you can see. No other creatures can use or leap through the portal, neither can objects S3 or larger.
+	◇ Portal up to 3m away, then move normally
+	◆ Portal up to 6m away, then move normally
+	Enhance:
+	↻ Leap into a portal to evade an attack. If your SpellRoll > AttackRoll, warp 3m away.
+[T1•Dis](Warp Strike)
+	◇ Create a portal leading to a space up to 3m away. Once this round, you can attack as though standing in that space.
+	Enhance: An adjacent ally can attack through the portal instead.
+```

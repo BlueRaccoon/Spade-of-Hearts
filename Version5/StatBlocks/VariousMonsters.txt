@@ -1,0 +1,165 @@
+Poison: If attack breaks Armor, ♧Endure Save vs effect
+Stun: Target loses Reaction this round & Action on their turn.
+
+==	==	==
+Korbal Hindersteel
+[ T0 • S3 • Human Hinter Veteran ]
+♧ 3 ♤ 2 :	🞧 6	⛊ 2
+♡ 3 ♢ 2 :	⚔11	♞ 3
+== Skills
++3: Endure 
++2: Fight • Presence • Will
++1: Perception • Security • Aim
+== Traits
+Bulky : Use 'Endure' to defend against Brawling
+Bullwark : When next to an ally, you both take 1 less damage (min 1)
+== Weapons / Gear
+Straightsword	+5 • ⚒4(3) • ⇗1-1 • Versatile
+		2hand	+5 • ⚒4(3) • ⇗1-1 • Versatile
+War Torch		+5 • ⚒4(♧) • ⇗1-1 • Slow • OnCrit:Ignite
+Round Shield	↻Shield(2) • Cover+
+Chainmail		4R • Noisy
+== Techniques
+↻Intercept: Intercept an attack directed at an adjacent ally. May ↻Shield as part of this reaction.
+◇Hoist: An adjacent ally Gets Up or is Pushed 1m
+•Indominable: (Stunt) If you would be Injured, reduce damage taken by [♡+Endure+Will]
+
+==	==	==
+Myra Green
+[ T0 • S3 • Human Journeyman Herbalist ]
+♧ 1	♤ 2	:	🞧 6	⛊ 2
+♡ 2	♢ 3	:	⚔11	♞ 4
+== Skills
++3: Medicine • Survival
++2: Empathy • Knowledge
++1: Fight • Will
+== Traits
+Whisperer (Beast) : Communicate with Beasts.
++2 Specialty to track, research, understand Beasts
+Can train Beasts up to 1/2 of one of your skills
+== Weapons / Gear
+Dagger  	+3 • ⚒3(♤) • ⇗0-0 • Throw(3)
+Rugged Garb	⛊2
+== Misc
+◆◇TraumaKit (x3): Roll ♢Medicine to heal Injuries
+Range 0; Must not be Threatened by an enemy
+[T1] Target must roll ♧♡Endure T2 to recover
+[T2] Target heals 1 Injury
+
+
+==	==	==
+Lycosid
+[ T1 • S4 • Void Insect ]
+♧ 3	♤ 4	:	🞧10	⛊6R
+♡ 3	♢ 2	:	⚔11	♞ 3
+==	Skills	==
++3: End *Insect
++2: Per *Void
+==	Passive	==
+Darkvision • SpiderClimb • Resist Mental
+Shadowstep: Treat dark shadows as Portals to other shadows within 6m
+ShadowArmor: Gain ⛊B3 in darkness. Treat bright light as Hazardous Terrain.
+GRANDMONSTER: +2 "Leg" Parts
+==	Weapon/Attack	==
+Fangs		+7 • ⚒2(4) • ⇗0-0 • Keen • Poison(T1:Stun)
+==	Techniques	==
+◇Shadow: [Voi] Suppress a light within 2m of self or Part
+◇Gnash: Bite a Grabbed target
+◆Sink: Sink into shadows. Invisible if more than 2m away from Core. Counts as "Hiding"
+◆◇Legform: Create additional Leg: no Armor and 4Hp (max 4 at once)
+
+==	==	Legs
+Legs: Lycosid PART
+GRANDMONSTER:
+	Core draws +1 Initiative Card per PART
+	Parts act first, then Core acts last
+	Parts have separate ACTIONS & VITALS
+	Parts are Tethered to Core; stay within 2m, move with base
+LEGS
+Shadowstep: Treat Shadows as Portals to other shadows within 6m
+SpiderStomp	+6 • ⚒3(2) • ⇗0-1 • vs KD: Keen
+↻Intercept: An attack directed at a nearby ally hits you. You may ↻Shield as part of this reaction
+◇Overbear: Grab+KD after landing an Attack
+◆◇Launch: Attack target; Push(2) on hit (Any direction but towards core)
+
+==	==	==
+Cinder Spider
+[ T1 • S4 • Elemental Insect ]
+♧ 3	♤ 4	:	🞧 9	⛊3R
+♡ 2	♢ 2	:	⚔11	♞ 4
+==	Skills	==
++4: *Fire
++3: *Beast Per
++2: Ste
+==	Passive	==
+Darkvision • SpiderClimb
+Fireblood: Fire immune. Heal 1 when dealing Fire damage
+Flaming : Emits light/heat. Enemy Brawl rolls have Backfire(2)
+==	Weapon/Attack	==
+Fangs		+7 • ⚒2(4) • ⇗0-0 • Poison(T1:Ignite)
+==	Techniques	==
+◇Flamestep: ♞Move. Leave Embers behind.
+◇FlameSpindle: Restrain an Ignited enemy
+==	Spells	==
+◆◇ Firebreath [T1 Fire]
+	+4 • ⚒T+T⚄(2) • 3x5m Blast
+	Leaves behind 1⚄ Embers (T0 Haz.Terrain)
+
+==	==	==
+Giant Cat
+[ T0 • S3 • Beast ]
+♧ 3	♤ 2	:	🞧 8	⛊ 2
+♡ 2	♢ 2	:	⚔11	♞ 4
+==	Skills	==
++3: Ath Ste
++2: Per Pre *Beast
++1: Sur Wil End Emp
+==	Passive	==
+Darkvision • Extrasense(Smell)
+==	Weapon/Attack	==
+Claws   	+5 • ⚒2(3) • ⇗0-1
+Bite		+5 • ⚒3(3) • ⇗0-0 • vs KnockDown: Keen
+==	Techniques	==
+◇Sprint: Move 5m in a straight line
+◇Overbear: Grab+KnockDown (Brawl) after a Melee Attack
+◇Nimble: Hide, Escape, or Move 2m+Take Cover
+◆◇Pounce: Leap 3m; Attack with ADV. Knockdown on Crit.
+
+==	==	==
+Great Mantis
+[ T2 • S4 • Beast Insect ]
+♧ 3	♤ 5	:	🞧10	⛊6R1B
+♡ 4	♢ 2	:	⚔14	♞4
+Skills
++4: Fgt
++3: Per
++2: Ste *Beast
+Passive
+Darkvision • SpiderClimb
+CombatSense: +1 Reaction each round
+Weapon/Attack
+ArmBlades	+9 • ⚒3(3) • ⇗1-2 • On Crit: Grab
+Mandibles	+7 • ⚒2(4) • ⇗0-0
+Techniques
+↻Parry: Increase ⚔Defense by 3 (one attack)
+↻Riposte: When Missed: Retaliate (Melee Attack)
+◇Gnash: Bite a Grabbed opponent
+◆Frenzy: Planted(◇◇) Flurry (Attack Twice)
+◆◇Coil: Next round: Take an additional Turn
+
+==	==	==
+Blackroach
+[ T0 • S1 • Voidling Insect ]
+♧1  ♤3		🞧 2	⛊ 0
+♡1  ♢1		⚔11	♞ 3
+==	Skills
++2: Stealth • *Insect • *Void
+==	Passive
+Extrasense: Smell, Scry, Touch
+Scurry : Moving does not trigger Free Attacks from enemies 2+ sizes larger
+Shadow Walk : When Hiding in a dark or shadowed area, you can move to any shadow in a 6m area.
+==	Weapon
+Bite	+5 • ⚒2(2) • ⇗0-0 • On Crit: Poison [T1 ♡♢Strain]
+==	Techniques
+◆Scream: Deal 3 Mental Damage to one adjacent creature. (♡Will Reduces) On Injury, target takes 1 ♡♢Strain
+↻Chorus: An adjacent enemy takes +1 Mental Damage this turn

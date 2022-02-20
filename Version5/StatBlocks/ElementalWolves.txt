@@ -1,0 +1,106 @@
+
+"The Circuit":
+
+Entrance Criteria:
+• Monsters must be alive and self-ambulatory (no puppets or mind control)
+• Humans and Animates of full sentience may not compete as monsters
+• Monsters are given an intelligence/consent check on registration and before official bouts.
+	• Monsters found to be of sufficiont intelligence must agree to the match
+	• Monsters capable of requesting such will be granted asylum from masters
+• Monsters found to engage in unlawful violence against Humans are disqualified
+
+During a match:
+• No unauthorized magic may cross into rhe ring
+• Devouring of body or soul is not permitted
+• Monsters may not travel outside the ring, and nothing physical or magical from outside the ring may enter (except authorized enchantments)
+• The monster or master may concede, ending a match immediately
+• No violence is permitted before or after a match
+
+
+
+
+==	==	Spirit Wolf 	==	==
+Spirit Wolf [T0]
+[T1 S2 Elemental Beast]
+♧1 	♤4	:	🞧5	⛊0
+♡2	♢3	:	⚔14	♞4
+==	Skills	==
++4 Spirit	+3 Beast; Empathy; Will
++2 Athletic; Perception
+
+> Darkvision; Extrasense (Scry)
+> Lifesense : Can sense the presence of living beings 12m away
+> Resist Mental (3); Resist Acid(3); Immune to Suffocation
+•SPECTRAL : Can't be grabbed, restrained, or knocked down by normal means
+
+↻PackHunt 	: Retaliate when a Flanked enemy attacks your ally
+◇◇FloatStep : Fly 2x♞; Ignore Terrain and Reaction. Can move through walls.
+Claws	+6 • ⚒2(3) • ⇗0-1
+Bite	+6 • ⚒3(2) • ⇗0-0 • Keen
+
+◆Sleep [T1 Spirit]: Cause targets in a 6m area to fall asleep. Targets Save with ♥Will in the order of your choice (rolling vs Tier). When a target Saves, reduce Tier by 1 for the remaining targets.
+◆Thoughtsense [T1 Spirit]: Choose an emotion; detect anyone feeling it.
+◆◇◇Dreamwalk [T2 Spirit] : Enter the dreams of a sleeping creature. May attempt to communicate, incept ideas, tamper with memories, or Posess
+◆◇◇SpiritCry [T2 Spirit]:
+	Affect any number of creatures in an 8m Sphere around self
+	Deal 1+Td6(1) Mental damage (♡Will/Empathy Save reduces) On Injury, Slow
+	On Incapacitaing, targets are rendered unconscious.
+	
+
+==	==	Ember Wolf	==	==
+Emberwolf [T0]
+[T0 S2 Elemental Beast]
+♧2 	♤3	:	🞧7	⛊0♡3	♢2	:	⚔11	♞4
+==	Skills	==
++3 Beast	+2 Fire, Pre Per
+> Darkvision; Extrasense (Smell)
+> Resist Fire (3/Turn)
+==	Weapons	==
+Claws	+6 • ⚒2(3) • ⇗0-1
+Bite	+6 • ⚒3(2) • ⇗0-0 • Keen
+==	Techniques	==
+↻PackHunt 	: Retaliate when a Flanked enemy attacks your ally
+◇Sprint 	: Move 5m in a line
+◆Takedown	: Bite; Grab or Knockdown on Crit
+◆Harry		: Attack (no Base Damage) : Disrupt on hit
+==	Spells	==
+◆◇ Firebreath [T1 Fire]
+	+4 • ⚒T+Td6(2) • 3x5m Blast
+	Leaves behind 1d6 Embers (T0 Haz.Terrain)
+==	Advancement	==
+When Advancing an Emberwolf, they gain access to [Wolf] and [Fire Beast] traits
+Emberwolves specialize in: Beast, Athletics, Perception, Presence
+
+[T1 Wolf]
+> Gain Natural Armor 2. Choose 1 of the following Techinques:
+↻Cordinate	: As soon as you Flank an enemy, Attack
+◇Focus		: Extra Reaction
+◇Mauling	: Bite vs Grabbed or Knocked Down
+[T1 Fire Beast]
+> Fire Mana +1. Choose one of the following Spells:
+◇Scorch [T1 Fire]:
+	Melee Attack: ⚒Td6(2) • 0-0m • Ignite on Crit
+↻FireFang [T1 Fire]:
+	On Bite, deal an additional [Td6(T)] damage and Ignite
+
+[T2 Wolf]
+> Natural Armor 4. Your Bite and Claw attacks gain Bleed(2). Choose 1 of the following Technique:
+◇Overbear	: Grab+KnockDown (Brawl) after landing a Melee Attack this round
+◇Coordinate	: ♞Move. Up to ♢ Allies may move half as far.
+↻Ruthless	: Attack with Advantage when an enemy is Injured.
+[T2 Fire Beast]
+> Fire Mana+2. Choose one of the following Spells:
+◆◇Spitfire	[T0 Fire]:
+	Ranged Attack: ⚒3(1d6) • 0-3m • Ignite on Crit
+◇Firestarter [T1 Fire]
+	Create Td6 Embers or half that many Fires anywhere within 6m
+◆◇Emberform	[T2 Fire]: 
+	Your space is treated like T1 Hazardous Terrain.
+	Leave Embers behind when you Move.
+	Recover 1 Fire Mana on Crit or '6' rolled
+
+[T3 Fire Beast]
+> Fire Immunity. While standing in Fire, gain +1 Reaction and +2(Braced) Armor.
+◆◇FireEater [T2 Fire]:
+	Extinguish any number of fires within 12m. Recover 2 Health and 1 Mana per Tier of fire eaten (embers count as 1/2)
+
