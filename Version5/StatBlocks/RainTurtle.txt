@@ -3,20 +3,26 @@
 ==	==	Rain Turtle 	==	==
 Rain Turtle
 [ T0 • S1 • Elemental(Water) Beast ]
-♧2 	♤2		🞧6	⛊3R♡3	♢1		⚔11	♞3
+♧2 	♤2		🞧6	⛊3R
+♡3	♢1		⚔11	♞3
+
 `Skills
 +3: *Water
 +2: Survival • Endure • Aim
 +1: *Beast • Empathy • Stealth
+
 `Passive
 •Fly	•Swim
 •Resist: Suffocate, Buffet
+
 `Weapons
 Bite	+3 • ⚒2(2) • ⇗0-0 • OnCrit:Grab
+
 `Techniques
 ◉Withdraw: Reduce Physical Damage by 3. Become Blind.
 ◆◇SpinTackle: Throw yourself at a target as a Ranged Attack
 	+4 • 3(2) • ⇗2-4
+
 `Spells	(+6)
 ◆Drench 	[T0 Water]
 	One target below you is Soaked (Spell as Ranged Attack, ⇗2-8)
@@ -36,7 +42,7 @@ Bite	+3 • ⚒2(2) • ⇗0-0 • OnCrit:Grab
 ◆◇Waterfall	[T2 Water]
 ↻Quench 	[T1 Water]
 
-==	==
+==	==	Advancement/Power
 [Shelled Beast T0]
 Resist Buffet
 ◉Withdraw: Reduce Physical Damage by 3. Become Blind.
