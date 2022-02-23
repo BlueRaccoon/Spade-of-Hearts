@@ -1,4 +1,9 @@
+# CORPS
+*This is an archived copy of Version 2.X of an ongoing tabletop project*
 
+---- ----
+
+- [CORPS](#corps)
 - [Getting Started](#getting-started)
     - [**Dice**](#dice)
     - [**Item, Trait, and Spell Cards**](#item-trait-and-spell-cards)
