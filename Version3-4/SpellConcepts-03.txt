@@ -1,0 +1,110 @@
+SPELL CONCEPTS
+
+Keyword: VULNERABLE (Action can trigger Opportunity Attacks)
+
+
+- - - - - - - - - - - - - - -
+	PUZZLE
+- - - - - - - - - - - - - - -
+
+> Lock with 3 letter combo
+Labeled with digits 8549176320 [alphabetical order]
+combo is ABC
+failed combo entry destroys contents, as does failed disarm attempt
+
+
+
+- - - - - - - - - - - - - - -
+	ABILITIES
+- - - - - - - - - - - - - - -
+
+>	Supportive (REQ: Empathy 2, Will 1)
+- PASSIVE: You resist the first 2 Mental Damage taken eack round
+- REACTION: Once per round, when a target in earshot takes Mental Damage, you can Support them. Roll HRT/EMP DC10 to take half the damage for them. 
+
+>	Rally (REQ: Empathy 2 / Trust 2 )
+- MINOR: Usable [HRT] times per day. Roll HRT/TRU or HRT/EMP. All allies within earshot gain a bonus based on the result for 1 round:
+DC9 : Allies resist 3 mental damage, and get +ADV on WILL saving throws
+DC12: Allies get +ADV on all HRT or WILL rolls, and recover 1HP (not injuries) at the start of their turns.
+DC15: The effects last 3 rounds. All allies, as a reaction, may immediately roll to shrug off a Condition
+DC18: All allies regain [HRT] Spell Points, recover [HRT] exhaustion, and recover [HRT] HP (not injuries)
+DC21: The effect lasts 2 hours. Effects that recover HP now allow the ally to roll HRT/END DC12 to heal injuries.
+
+>	Rage: Mad Strength
+- This round, gain +ADV on STR/HRT checks. You can't maintain Concentration, have DISADV on INT, and enemies get +ADV on attacks against you.
+
+
+>	Blunt Master (REQ: STR3, FGT2, END1)
+- When attacking with a Bashing or Massive Weapon in Melee (2 handed), on crits you knock targets 1 size or less smaller than you prone. Larger targets are Pushed 1
+- When Pushing a target in Melee, you can immediately follow them up to 2 spaces. This does not trigger Opportunity Attacks.
+- When a target (eqal size or less) misses you at Range 0-1 (and you are not grappled or prone), as a Reaction you can roll STR/FGT vs their attack roll to Push 1. This can trigger opportunity attacks from others.
+
+>	Pole Master (REQ: FGT2)
+- You can Threaten 1 additional target
+- On your turn, you may use your Movement to Prepare. Until your next turn, you can automatically Engage targets entering your attack range, allowing attacks of opportunity.
+
+>> Concept: On hit, foe Disengages
+
+- - - - - - - - - - - - - - -
+	SPELLS
+- - - - - - - - - - - - - - -
+
+>	Rainguard
+	BAL SOL | AIR FIR WAT
+- A quick burst of energy protects target from getting wet from any liquid for 1 round. Target can be no more than 2 sizes larger than you, or 20ft of a surface. Can also block up to 3 impact damage from water (above 3, the spell breaks)
++2: Cast as a Reaction. At least 1 SP must be spent on this spell.
++1: Duration +2 Rounds
+- BAL / AIR / SOL : Can also protect against any dust or powder, and form an air-tight seal.
+- FIR : Creates Steam on contact with water. Unsustainable to keep submurged objects dry. Can be used to steam-dry a waterlogged object.
+- WAT : Can block up to 6 impact damage. Liquids can be collected or redirected. Can instantly dry a wet object, and collect the water.
+
+- - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - -
+- see thru others eyes
+- hide spell (render spells stealthy!)
+- detect thought
+- Insight : use magic for adv?
+- 'Bug' willing allies
+
+Create Light
+	ILL ENC BEN | FIR LIT
+
+Impersonate
+	ILL TRA
+
+Bolt
+	BAL SOL | ERT ICE FIR LIT WAT
+
+Mood
+	ILL ENC BEN | LIF
+-- Artificially alter target's mood as a High or a Low (usually chipper/delusional vs paranoid/agitated)
+	High: ADV+ Charm, Decieve, Will, Endure. DISADV Investigate, Provoke, Notice
+	LOW: ADV+ Provoke, Notice, Investigate. DISADV Charm, Will, Endure
+
+Air Dash
+	CHN | AIR LIT
+
+Hover
+	CHN ENC | AIR LIT
+
+Waiter (Tenser's Floating Disk)
+	ANI SOL ENC
+
+Horror Maze
+	ILL | VOI
+-- Roll versus HEART/WILL to lock target in a mental maze of traumatic nightmares.
+-- While locked, target is limp in the real world, and all melee attacks on them automatically crit (they get a free Escape Roll when damaged). At the start of their turn, they roll INT/HEART/INVESTIGATE DC12 (Cumulative) to escape. If they fail, they take 1d6 mental damage and end their turn.
+-- No effect on 0-1 Intelligence targets
+
+Wall
+	ILL TRN SOL | AIR ERT ICE FIR WAT
+-- Create a wall, 10ft by 30ft, 1ft thick, with its centerpoint anywhere within 30ft of the caster. Can also create a 5ft by 20ft bridge, if both ends can be supported.
+-- Wall has base Phys Resist 3 and 12AP, with extra AP and properties based on the material of the wall.
+	ILL: The wall is not real, but can look like any material
+	TRN: The wall can only be made of the same material as the ground/environment
+	SOL: The wall is clearly magic and requires concentration, but does not need to obey physical or architectural law and has +8AP
+	AIR: The wall is not solid, but acts as a blower which can stop clouds, debris, smoke, and swarms. DISADV to ranged attacks through the wall.
+	ERT: As long as ground is made of dirt,clay,stone, or sand, wall is made of that material (+4AP to Stone)
+	ICE: Wall is made of solid ice
+	FIR: Wall is not solid, but deals 3+1d6 fire damage to anyone passing through.
+	WAT: Wall is not solid, but rather made of constrained water. Counts as difficult terrain. Can be swam through. Instead of a bridge, can be used to part water with the dimensions of the bridge, or can be used to allow water walking with the dimensions of the bridge. Requires concentration.

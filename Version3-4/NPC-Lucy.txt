@@ -1,0 +1,30 @@
+(Version 3)
+
+Lucy
+
+S D I H
+2 2 3 3
+HP: 8/8/8
+AC: 11
++4 Enc
++3 Wil Knw
++2 Ath Not Crf
++1 Cha Emp For Inv
+
+Magician's Tux: Roll DEX/FOR to find any given small, common item in a pocket
+Tophat: Returns to head at will as though animated. Acts as 60lb Hashbag.
+Enchanted Yo-Yo: (Dex/Enc) (HRT+1dmg) Rng: 1-2
+Origami Darts: (Dex/Enc) (Dex+1dmg) Rng: 2-5 (Animate paper airplanes to attack as Throwing Attacks)
+Comm Tablet : Reach contacts in Pivotal Cities. Send and recieve messages. Research common knowledge.
+
+Schooled Casting
+- Int+Hrt SP; Cast with Int/Enc.
+- Pick 2 Schools: Anima, Enchant
+- Gain Cantrip free. Pick 3 Spells:
+	Cantrip, Writhing Raiment, Magic Tutor, Puppeteer
+
+Reflexive Anima: When overcome by any given emotion, automatically cast Puppet on a nearby object. Lucy can have up to 5 puppets max, but they can't act separately in combat. Several small animates may act as one collective monster.
+
+Mass Animate: Animate a 20ft area of things like confetti, vines, laundry, seaweed, etc. Create difficult terrain, apply DISADV to creatures in the area, or create a zone of continuous 1dmg to enemies. Lasts 3 rounds.
+
+Offensive Writhing Raiment: In Grappling against a target that wears clothing, Lucy can lay both hands on the clothes with DEX/ATH vs INT/ATH. She causes the characters clothes to rebel against their user, causing them DISADV on ATH, FGT, and AIM checks. On success, she can immediately roll to escape grapple. Duration: 4 Rounds.

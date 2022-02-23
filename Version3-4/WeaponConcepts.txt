@@ -1,0 +1,17 @@
+> > 2d6 Weapon Notes
+
+> SLING
+(DexStr/AIM) (R:2-6) (D:1+1d6 / 3+1d6)
+
+> HERO SLING
+(DexHrt/AIM) (R:2-6) (D:1+1d6 / HRT+2d6)
+Crit on 11 or 12
+Once per turn: +ADV against enemies 2 sizes larger than you
+
+> SPELL SLING
+(DexInt/AimEnc) (R:2-6) (D:1+1d6 / 2d6)
+Requires proficiency with Solidics, Earth, or Ice
+Acts as a Magic Focus for those schools
+Ammunition can be enchanted to deal different damage types
+
+

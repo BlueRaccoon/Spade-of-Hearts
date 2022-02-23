@@ -1,0 +1,77 @@
+
+~	~	~	~	~
+~	Floor Hazard		~
+~	~	~	~	~
+[ TRA | ERT FIR ICE ]
+##DC	:
+##Range: 0-4 (~30 feet)
+##Dur	: Permanent
+
+- Cover an area up to 20ft (3 units) in Spikes. They deal 1d6dmg to anyone in the space upon casting, then become Difficult Terrain. Anyone moving across them rolls DEX/ATH DC9 or takes damage again. Anyone falling Prone in the area takes double that damage.
+- Flying or hovering creatures and Tiny (size 1) creatures are not affected. Giant (size 4) creatures always take damage while moving over the spikes, after which the spikes are destroyed.
+
++3: Expand the area to 60ft (~8 units). The spiked areas do not need to be contiguous, and can be spread around as needed.
++3: Increase the damage of the spikes by 3 (max 6)
++3: Create Anti-Cavalry Spikes. Thich serve as Obstacles/Cover instead of Difficult Terrain (and do not deal damage normally), but deal deal double damage against Large (size 4) or larger targets who are charging
++6: Your spikes are now Giant Size. They are only Difficult Terrain to Medium (size 3) or smaller targets, but deal double damage and are not destroyed by Large (size 4) targets or greater.
+
+[FIR]
+Instead of Spikes, the area is on fire. It is no longer difficult terrain, but deals damage at the end of each character's turn if they are on the fire. Duration: 30 Minutes
+
+[ICE]
+You may instead choose to make the floor slick. All Pushes get +1, and require a (DEX/ATH DC10+Push) save or are knocked Prone. The ice melts in a day or so at normal temperatures.
+
+[TRA]
+You can immitate the effects of any other element, but the materials must be available in the environment.
+
+
+~	~	~	~	~
+~	Magic Tutor		~
+~	~	~	~	~
+[ BEN CHN ENC SCR ]
+##Tier : 2 (DC12)
+##Cast : 2 Minutes
+##Range: 5ft (Willing Targets)
+##Dur	: 30 Minutes
+
+Magically transfer skilled experience and muscle memory between two willing targets.
+
+- Choose a 'Student' and 'Tutor', two willing and cooperative creatures within range.
+- Choose any skill which the Tutor has at a higher tier than the Student. The student gets +1 to that skill for the duration.
+- This effect can not stack, and a 'Student' can have only one 'Tutor' at a time.
+
++1: Extend Duration to 2 Hours
++1: If the tutor's skill is 3 or more greater than student's, increase bonus to +2
+
+	[CHN]
+This spell can only affect the caster.
+Instead of picking a student and tutor, the caster can observe any target (even unwilling ones) to use as their Tutor.
+The tutor must make a skill roll for you to observe.
+You can learn from skills equal to your own.
+
++1: Cast Time is now 1 Action
++2: Cast Time is now 1 Minor Action
+
+	[ENC]
+Instead of casting the whole spell at once, you may Enchant a Skill into a small object.
+Later you can cast this spell again, and use that enchanted object as the Tutor.
+The object is wiped clean in the process.
+#INT/ENC DC12 roll is required to benefit from a 'Stored Skill' you did not enchant.
+
++2: You can store the knowledge in a more user-friendly and consumable way, allowing anyone with 3 INT, 1 ENC, or 1OPE to administer the spell. The enchantment process now takes 2 hours and requires the object to be lined with rare metals or gemstones.
+
+	[SCR]
+This spell can only affect the caster.
+Maintaining the effect requires concentration
+Your tutor must remain within 60ft of you for the duration of the effect
+Your skill is increased to be equal to the tutor's for the duration.
+
++1: You can now use the link of any Scrying Spell to connect to a Tutor if they are not nearby.
+
+	[BEN]
+
++1: You can distribute the skill to 2 additional targets
++2: Instead of choosing one skill, the tutor conveys bonuses to all skills +4 or higher to the target, in addition to one Ability the target does not have.
+
+
+

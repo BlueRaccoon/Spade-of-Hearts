@@ -1,0 +1,176 @@
+╔═══════════════════════════╗
+║    Kinesis                ║
+╚═══════════════════════════╝
+	T0: Solidics, Air, Water
+Range: 0-5 (30ft)
+Cast Time: Minor Action
+~~	Magically lift, move, and manipulate objects
+----SOL----
+~~	Create a magic hand
+- You can move the hand like your own. It travels up to 30ft per second, and can get up to 30ft away from you.
+- The hand has STR/DEX equal to your HRT/INT
+- The hand vanishes if it takes damage, and can not benefit from your Skills
+	+1: Summon an additional hand.
+	+1: The hand can use your skills at up to +2
+----AIR----
+~~	Move objects with the wind
+- With a strong gust of wind, you can open/close doors, move light objects, or otherwise precicely control air currents.
+- Dense objects are difficult to move with wind, but you can generate as much as a 35mph gust or control wind precicely enough to finely manipulate a leaf through obstacles.
+	+1: As an Action, you can try to Push a target by 2 in any direction (STR/ATH vs Spell Power)
+----WATER----
+~~	Levitate and move up to 1 gallon of liquid
+	+1: Wield water as a Range:1-3 weapon that deals HRT+DEX damage
+	+1: Levitate 5/20/50/100 gallons of water (Rebuy)
+
+╔═══════════════════════════╗
+║    Crack the Sky          ║
+╚═══════════════════════════╝
+	T4: Ballistic, Distortion, Air, Lightning, Water
+Range: 2-7
+Area: 5
+Cast Time: 2 Actions
+~~	Send a burst of energy into the open sky, causing a devastating rift of power to rain down on a target
+- Target and caster must be outdoors. Caster spends an action aiming their spell up at the sky. Next turn, caster may rain the spell down.
+- Caster may hold the spell, but must keep one hand pointed at the sky until they release the spell. If the caster is interrupted, the spell fires down at a random location in range.
+----BAL----
+~~	Send a burst of magic into the sky which gathers energy and plummets to the ground in an explosion.
+- Deals 6+3d6 damage at the center of the blast, -3 damage per 10ft away. Targets may roll DEX/ATH vs Spell Power to take half damage.
+	+2: This spell can be used indoors, blasting through up to 15ft of stone on its way up and down, and dealing an additional 2d6 of damage from falling rubble
+----DIS----
+~~	Crack a series of rifts open in the air, in a ladder leading up to the sky, causing a feedback loop between them.
+- All targets within range roll DEX/ATH vs Spell Power, or take 2d6 damage and immediately lose any magical Concentration effects
+- Affected targets roll 1d6 for an additional effect:
+ 1: Target takes 3+2d6 damage from space distortion. If this Injures a target, one of their limbs is teleported to a random location within range.
+ 2-3: Target is teleported to a random location within range and knocked prone
+ 4-5: Target is Pushed 2 in a random direction
+ 6: Target is fine
+	+1: Target within range must roll for effects an additional time
+	+1: Lingering magical effects T4 or lower are dispelled. Each effect dispelled forces an additional roll for effects.
+	+2: If the caster is within the area of effect, for the next 3 rounds the caster may teleport to any free space within the area of effect at will.
+----AIR----
+~~	Call a Cyclone down to earth
+- The cyclone lasts 2 minutes, and as long as the Caster maintains Concentration, it can be moved using the Caster's movement and speed.
+- The cyclone makes an attack (+6) every round, hitting up to 3 targets in range for 2+2d6 damage and Pushing hit targets by 2
+- The caster may spend their action attempting to suck up a target into the cyclone. This acts as a Grapple of the caster's spellcasting vs DEX/STR/ATH. If target breathes air, it suffocates for 3d6 damage each turn it is grappled. If not, it takes 1d6 buffeting damage.
+	+2: The caster can fly, suspended in the center of the cyclone. The caster may use their casting stat in place of ATH and gains +3 AC. Ranged Attacks by and against the caster are at DISADV.
+----LIT----
+~~	Call a column of lightning down from the sky
+- Deal 3+3d6 damage to the tallest target in range. Deal half that much damage to any number of targets, as long as each one is within 20ft of the last.
+- Targets who are injured are also disarmed, knocked prone, and lose concentration effects
+	+2: Allies struck by the lightning instead gain that much AP, and deal +1d6 Lightning damage with weapon attacks as long as they have AP
+----WAT----
+~~	Call a blinding, torrential downpour to flood an area and create rapids
+- Over the next 5 Minutes, a 60-120ft area becomes Difficult Terrain.
+- Ranged Attacks at Range 4 or more are at DISADV in this area.
+- Anyone standing on difficult terrain before the downpour rolls DEX/ATH DC18 or is knocked prone
+- Anyone who is knocked prone (without holding onto something) is Pushed 3 downstream and takes 2d6 Suffocating damage
+- The caster may spend a Minor Action to alter the currents of water, changing the direction that targets will be pushed
+- The caster may spend an Action to surge the storm, forcing everyone in a 20ft area to roll STR/ATH DC18 or be knocked prone.
+
+╔═══════════════════════════╗
+║      Homemaker            ║
+╚═══════════════════════════╝
+	Illusion, Solidics, Transmutation, Earth, Ice
+			T2
+Cast Time: 30 Minutes
+~~	Create a sturdy, habitable structure 
+> The structure can be up to 100 square feet (one medium-sized room), complete with floor/walls/ceiling.
+> The structure is insulated, sturdy, and weatherproof (but is not designed to last more than a few days)
+> The structure may include basic stairs, seating, windows, and other simple shapes.
+	+1: Increase the floor size: SmallRoom > LargeRoom > SmallHouse > LargeHouse > Mansion
+	+1: The house can now last several weeks. If the spell is renewed each day for a month, it becomes permanent.
+	+1: The house can now have intricate decoration, architecture, or furnishing
+	+1: The house is extra resilient, giving DISADV against attempts to break in.
+	+2: Reduce cast time to 2 Full Actions. Gain Exhaustion. (Rebuy: 1 Action)
+----ILL----
+~~	Instead of a physical house, you craft a detailed illusion of a home.
+- You may cast an illusion to convincingly disguise a building or structure as a different one, including interiors and furnishings. The building can be used and lived in without dispelling the illusion for 1 day.
+- You may create an illusion of a building or structure from nothing, as long as no obvious force (weather, staircases, water, etc) gives away the absence of a house
+- You may create a detailed dreamspace that nearby dreaming or meditating creatures can inhabit.
+	+2: You can make the building resemble one familiar to a target (and not the caster), allowing their memories to fill in the details. The building will look and feel familiar to them.
+	+1: Inhabitants of the building make an INT/NOT DC15 check upon entering, or are under a persistant delusion that the home is real and will treat it as a real, furnished, functioning structure for the duration.
+----SOL----
+~~	Create a glowing structure of pure magic energy
+- Requires Concentration, can not be made permanent
+- The house does not need to be structurally sound, and can conain any non-mechanical furniture.
+- The caster can modify the floorplan or furniture by 15ft as a minor action
+	+1: The structure can be suspended in the air
+	+2: The structure remains for 1 hour even after losing concentration
+----TRN----
+~~	Create a sturdy structure from available materials
+- Your structure can contain hinged doors, lights, plumbing, and basic furnishings if enough materials are available (CRF rolls at DM discretion)
+	+1: You can create a basic Wagon from your structure, allowing it to be moved (with some difficulty)
+	+2: Given 2 Hours, you can remodel or add a room to an existing structure seamlessly.
+----ERT----
+~~	Create a structure or house of dirt and stone
+- Cast Time is only 5 minutes
+- Structure can be embedded into the ground or mountainside
+	+2: Reduce Cast Time to 1 Action
+	+1: Instead of a room or home, create tunnels through dirt or stone, up to 50ft long per spell level.
+----ICE----
+~~	Create a structure or house from ice
+- Cast Time is only 5 Minutes. The house melts in above freezing temperatures in 1 day.
+- Can be used to create a functioning boat on water
+
+╔═══════════════════════════╗
+║    Chaotic Swarm          ║
+╚═══════════════════════════╝
+	Anima, Ballistics, Illusion, Solidics, Fire, Lightning, Void
+> Range: 1-5 (30ft)	; Area: 3 (20ft)	; Cast Time: 1 Action ; Duration: 2 Rounds
+~~	~~ Conjure a blinding and chaotic swarm to harry and disrupt foes
+> Deals 1d6 damage and DISRUPTS everyone in the area
+> Creates COVER against Ranged Attacks from anyone in the area
+	+1: Increase Area or Range by 10ft
+	+1: Duration +2 Rounds
+	+1: [ ILL, SOL, FIR ] Allies are Unharmed
+	+1: [ BAL, SOL, FIR, LIT, VOI ] Deals +1d6dmg on cast (Rebuy: max +HRTd6)
+	+1: [ BAL, SOL, VOI ] Targets roll ATH/END DC12 or are PUSHED 1 in random directions
+	+1: [ ILL, FIR, LIT ] Chaotically flashing lights illuminate the area. Targets roll INT/WILL DC12 or lose Concentration effects (Rebuy: DC+3)
+	+1: [ ANI, SOL, FIR, LIT, VOI ] Targets roll DEX/ATH DC12 each time they move or take 1d6 damage.
+
+----ANI----
+> Animate a large number of small, lightweight objects to swarm enemies. Allies are unaffected.
+> The caster must supply the objects (or they must already be in range). Different objects have different properties:
+>> Floaty (confetti, paper, etc) : The swarm can fly. Affected targets are BLINDED.
+>> Grasping (Vines, tall weeds, etc) : The area is Difficult Terrain. Targets with AC lower than the Spell Power are Grappled.
+>> Blunt (rocks, sticks) : The area is Difficult Terrain. Deals 2d6 damage to any target knocked Prone.
+----BAL----
+> Fire a massive barrage of chaotic projectiles over a large area.
+----ILL----
+> Create a chaotic illusion over the area, such as a chaotic lightshow, a swarm of insects, or a hailstorm.
+> Deals no damage, but Disrupts and Blinds.
+----SOL----
+> Create a barrage of small magical flying objects, buffeting targets
+----FIR----
+> Create a hail of flares in the area, leaving smoke and streaming embers behind.
+----LIT----
+> Randomly electrify objects in the area, causing sparks arcing shocks at random
+----VOI----
+~~ Briefly open a horrifying portal to The Void, causing Horrors to streak out and assault friend and foe alike.
+> The caster immediately takes 1d6 Mental Damage per Spell Level.
+> Light from any source weaker than the Spell Level in the area is snuffed out.
+> Horrors deal 1d6 damage per spell level to all targets in darkness at the end of their turn.
+
+
+╔═══════════════════════════╗
+║    Fabricate              ║
+╚═══════════════════════════╝
+	T1: Transmutation, Solidics, Earth, Ice
+> Range: Touch;	Time: 1 Action
+> Magically create a simple object (up to Size 2) with no moving parts from available materials.
+> Delicate tools, precise measurements, or DEX-based weapons require CRAFT skill, plans, or a model to work from.
+
++1: Make up to 5 identical objects, as long as their collective size is within the limit.
++1: Make an object Size+1
+
+----TRN----
+----SOL----
+Create the object from raw magic. It glows faintly and has the hardness of stone and tensile strength of wood. You must maintain concentration and line of sight (or 15' distance) to the object, or it immediately dissolves.
+  +2: You can telekinetically control the object up to 10' away, as though you were holding it
+----ERT----
+Create an object up to Size 3 from available dirt, stone, clay, sand, etc. The object has the properties of that substance, as though it has been chiseled or poured into a mold.
+  +1: You may use twice the normal amount of material to create an extra-dense material (clay, sand, and dirt become like stone. Stone becomes like metal)
+----ICE----
+Create an object up to Size 2 out of Ice. If unmaintained, it will melt in 2 hours.
+If there is a source of freshwater within 15', create the object as a Minor Action.
+You can create DEX-based weapons with no CRAFT requirement.

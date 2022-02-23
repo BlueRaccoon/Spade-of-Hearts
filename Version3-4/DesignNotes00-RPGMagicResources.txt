@@ -1,0 +1,72 @@
+MAGIC RESOURCE MANAGEMENT NOTES
+
+~ ~ ~ ~ MP System (JRPG)
+- Each charecter has a quantity of MP, usually comparable in number to HP
+- Casting a spell costs MP based on the specific spell
+- Spells otherwise function like normal actions
+- MP is restored on Rest, and sometimes by special actions
+## Pro:
+	Easily balanced cost/power ratio,
+	Caster can have many spells
+	Good long-term resource management, not requiring constant rest
+## Con:
+	Very fiddly numbers
+	Difficulty balancing numbers for both long journey and bossfights
+	Casters become useless when out of MP (or while saving MP)
+
+~ ~ ~ ~ Spell Slot System (DnD)
+- Spells are divided into Levels
+- Caster has a certain number of 'slots' at each level for spells
+- Slots are filled with spells during rest
+## PRO:
+	Natural, comprehensible progression for mages and spells; good for leveling characters
+	Low power spells not competing for resources with high power spells
+	"Spell Level" acts as an extremely consistent/universal metric, for easy DM statting/balancing
+## CON:
+	Extremely rigid categorization of spells; heavy requirement for same level spells to be of same utility
+	Narratively strange to run out of energy for weak spells but keep strong ones; requires setting justification to work smoothly
+	"Recovery" mechanics are limited without breaking game balance
+	Casters become useless when out of spells
+
+~ ~ ~ ~ Focus Buildup System
+- "Focus" or "MP" builds up naturally during a fight, otherwise similar to MP system
+## PRO:
+	Casters never become worthless
+	Prevents "opening with big guns"; encourages narratively satisfying combat flow
+## CON:
+	No long-term resource management
+	Requires delicate planning to balance alongside the Action Economy
+
+~ ~ ~ ~ Cooldown System (Dnd4, MOBAs)
+- Spells can be used at will, but each specific spell can only be cast every so often (usually at will/ per encounter / per day)
+## PRO:
+	Discourages spamming the same spell
+	Encourages going through your full spellbook; finding uses for all spells
+	Less pressure on spell balance, since each spell is cast only once per fight
+	Easy to measure character strength by "number of abilities"
+## CON:
+	Spell Failure extremely punishing
+	Requires many different spells in order to be a designated caster
+	No narrative implication; no measure of "exhaustion"
+	Punishing to have niche spells, since they occupy the resource of an "Ability Slot" even when not used
+	Limited long-term resource management (Only worried about Dailies between fights)
+
+~ ~ ~ ~ Blood Magic System
+- Spells cost HP
+## PRO:
+	Casters never worthless as long as they stay in the fight
+	Natrual encouragement for mages to stay in the back without deliberately hampering mage combat stats
+	Casters have very dramatic risk/reward system available
+## CON:
+	Requires freely available healing to sustain, interfering with HP economy
+	Has lore implications
+	Makes life harder for Wizard archetype
+
+~ ~ ~ ~ Skill Roll System
+- Spells are just like Skills; roll your spellcasting ability versus the DC of the spell
+## PRO:
+	Casters never become useless
+	Mechanical consistency with rest of game
+## CON:
+	Chance of Spell Failure extremely unsatisfying way to balance powerful spells
+	No long-term resource management

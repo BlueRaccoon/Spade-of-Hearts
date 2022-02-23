@@ -1,0 +1,79 @@
+(Version 3)
+
+A wanted criminal, Adrius Holster, was tracked down to his apartment! You're being called in to track him down!
+>	ROOM 1: ENTRANCE
+- You get to the apartment at 8:00pm. He left in a hurry, things are ramshackle and thrown everywhere
+>> NOTICE finds Tablet. Tablet was monitoring Readleaf communications, was thrown aside. (-5 Minutes to OPERATE/ENCHANT)
+>> OPERATE or ENCHANT finds search history; ZEPHYR TRANSIT SERVICES, indicates presence of physical reciept (+15 Minutes)
+>> INVESTIGATE/SECURITY reveals physical reciept of ZEPHYR TRANSIT SERVICES (+15 Minutes)
+>> Staying too loong gets into fight with SECURITY SPIDERS, who try to destroy reciept (+25 MINUTES)
+
+- Reciept indicates location across town, and that he is leaving at 9PM!
+
+>	ROOM 2: PUZZLE/RP
+- Use Player Creativity to figure out how to get across town fastest!
+>> ATH Checks for Parcour
+>> NET Checks to get a ride
+>> CHA, SEC, ENC, OPE checks for stealing/grifting/hitching
+>> KNW, EMP checks to tame a MAILBEAST
+
+>	ROOM 3: Trick/Setback
+- ZEPHYR is a small, discrete, expensive, and incredibly expedious operation. They do not accept walk-ins, and the bouncer *may* have been warned about incoming heat. He's already inside, and the employees are not eager to let you check without proof.
+>> Seduce, Charm, Sneak, or Fight your way in
+
+>	ROOM 4: CLIMAX
+- Chase Sequence, Adrius takes off on some kind of glowing Ram-like air elemental. You need to quickly figure out how to catch up
+
+>	ROOM 4.5
+- You catch him on the road, where a cadre of ORGANDER attack!
+- Depending on interactions, Adrius may fight with you, try to kill you, or try to escape during the attack. His mount, if unharmed, will try to flee
+
+>	ROOM 5
+- If you turn him in, you get a sizeable bonus. If you don't, you get a black market networking connection and significant ire from your employer.
+
+SECURITY SPIDERS:
+♣1 ♠3 ♦1 ♥0 S:1 HP:2 AP:4 AC:11
+Needles: +4, R0-1, 2dmg
+- After landing an attack, sticks to you, requiring no attack roll to hit until thrown off
+
+MAILBEAST:
+♣3 ♠3 ♦2 ♥3 S:4 HP:10 AP:0 AC:10
+- Noble Gryphon-like figure with a mailbag. Honorable and intelligent, but will under no circumstances risk losing a delivery. Despite communications advancements, are still used as they are notoriously difficult to tamper with.
+
+QEBASUS:
+♣2 ♠4 ♦2 ♥2 S:3 HP:7 AP:0 AC:12
+- Some form of multi-headed glowing ram with wings. Grumpy, but very very fast.
+- Does not take passengers easily
+- Can summon Windstorm - DISADV to attack, risk of push/prone
+
+ADRIUS:
+♣2 ♠4 ♦3 ♥1 S:3 HP:6 AP:3 AC:13
++3 ATH, ENC
++2 FGT, NOT, STE
+
+Jagged Rapier: +6, R:1, 7dmg
+Brigand Knife: +6, R:0, 4dmg; Over3: Mug
+
+Counter: Attack of Opportunity as Reaction if attack misses you (if you didnt attack this turn)
+Backpedal: Reduce damage by 3 and Move 1 away (no diff terrain)
+Caster: Air; 4sp; cast at +6
+
+Burst (Air): T2 R:0-2
+- Targets roll [♣END or ♠ATH] or Push3/4, 3dmg, Prone
+Spire (Air): T2 R:2-4
+- ♠ATH vs SP or Push3. Knock Prone if landing on diff terrain.
+Shrapnel: T1; R:2-4; 1d6dmg; AOE1
+- +2: +1d6dmg
+
+ORGANDER:
+♣1 ♠4 ♦2 ♥1 S:2 HP:4 AP:0 AC:13
++3 ATH
++2 NOT, STE
++1 FGT
+Talons: +5; R0; D2/6
+- D:6/10 during +ADV
+Bite: +5; R0; D6/8 (Organic Only; must be Prone or Grappled)
+- Eats Organ if Causes Injury; ♣END/♥WILL DC12 or Stunned, DISADV on ♣♠, Organder gets 6AP and Heals
+Pounce: Grapple by moving 2+ and hitting an Attack. Target rolls ♣ATH vs Attack or falls Prone
+
+

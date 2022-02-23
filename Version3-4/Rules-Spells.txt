@@ -1,0 +1,83 @@
+DAMAGE / BALANCE CURVE
+
+1 Action = 6dmg/save = Recover 3 = Move+2 = Disengage = ADV later
+1 Minor  = 2dmg/save = 1AP = Push 1
+
+T1 spells = 9dmg
+T2 spells = 12dmg
+T3 spells = 15dmg
+T4 spells = 18dmg
+T5 spells = 21dmg
+T6 spells = 24dmg ?
+
+
+Cast a Spell -
+	
+	- Choose the Spell.
+	- Roll your 'Casting' check (determined by source of spell) against the spell's DC
+	- If you succeed, Spend the Resource Needed (spell point?) based on Tier of Spell. Your Roll for the spell is considered the strength of the spell.
+	- If you fail, casting is always considered Cumulative. Even if you succeed, you can attempt for Overshoot via Cumulative Casting.
+
+	- SP can be spent on Bonuses
+	- Overshoot 3: Refund 1 SP spent on this spell
+
+	- Rest : Regain X SP (heart+int?)
+	- Self Exhaust: Regain SP = to value of stat exhausted
+
+Exhaustion : Reduce a Stat by 1 (the stat you rolled with)
+
+-	-	-	-	-	-	-	-	-	-	-
+
+		Spells have:
+Name
+[Schools]
+Tier
+CastTime ( Cumulative )
+Range ( AOE/Targets )
+Duration ( Duration Notes )
+
+		Spells Can Have
+- A school which can benefit the spell, but can not be used to cast it
+- - Features marked with a different school like this can be used if the caster is proficient with that school
+- - They can also be used if someone who has that school helps with the spell - spending the same amount of time as it takes to cast the spell aiding you
+
+-	-	-	-	-	-	-	-	-	-	-
+
+Setting : Things Magic is Bad At
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+	One-Button Mind Control
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+- Simple, direct Magical Compulsion is extremely difficult to achieve with normal magic.
+- There are ways to mentally influence someone with magic (blackmail, decieve, mislead, motivate, create illusions, alter memories, stupefy, render suggestible, etc) but even with all these tools, brainwashing is an involved process that more closely resembles real-world indoctrination than magical compulsion.
+- Some extraordinary creatures (such as those of the Void, or the Marble Islands) may have developed some specialized mind control, but it is outside the bounds of ordinary spellcasting or enchantment.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+	Something from Nothing
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+- Several magical schools excel at altering existing matter to a substantial degree, and both Distortion and Void magic can open portals, but only Solidics is able to spontaneously create matter (though it is really "hardening the magic" into a shape).
+- Matter created by Solidics does not resemble normal matter, and almost always vanishes when not maintained by the caster (or powered in some way)
+- Water, Ice, and Earth spells may appear to create something from nothing, but are generally transforming and manipulating nearby materials. An Ice Caster can "Run Dry" in extremely dry climates (though can still manipulate cold) and an Earth Caster has difficulty far off the ground (though they can often manipulate Wood or Metal to a degree as substitutes for earth, so are seldom out of options)
+- Though the absolute truth is up for debate, it can be practically assumed that Law of Conservation of Mass is at least loosely adhered to, although transfiguration, solidics, and distortion can create the illusion thereof.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+	"Summon Monster"
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+- A single spell which spontaneously conjures a loyal servant breaks several of the other tenants of this list:
+
+- - If you summon the creature from somewhere, it is not under a geas to assist you. You either need one who already likes you or already hates your enemies.
+- - The creature needs to exist (ie: live somewhere) before you summon it
+- - The creature needs to actually be summoned to you. Though Distortion can create portals, extremely long-distance portals are nearly impossible to use with accuracy, and magically guided portals is a complex task requiring great expertise.
+
+A spell which automates the process of locating a creature, mentally compelling it to serve you, creating a portal to where you are would be extremely impractical.
+
+Casters who summon creatures often have a "Stable" somewhere which they have set up a connection with, allowing them to summon creatures already loyal to them.
+
+Solidics Casters can create a "Creature", but they are effectively pupeteering that creature and it does not act independantly
+
+Anima Casters can animate existing objects (perhaps ones that have been pre-prepared as ideal servants using Enchantment and Transfiguration), and those can act as servicable guards and servants. A responsible caster must use caution to avoid accidentally bestowing sentience on their guards, because then they are not guaranteed to continue being loyal servants.
+
+
+
+
+
