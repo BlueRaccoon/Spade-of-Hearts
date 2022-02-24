@@ -42,7 +42,7 @@ You may take penalties by reducing the defaults (filling in boxes to the left) a
 - Mechanics -   Understand mechanics, construct & deconstruct machinery
 - Magicraft -   Understand enchantment and magic
 - Knowledge -   Worldlore, trivia, ecclectic skills & knowledge
-- Magic(School) - Casting ability in one specific school of magic
+- Casting(School) - Casting ability in one specific school of magic
 
 ### **Specialty Skills**
 - Weapon Skill (Specific Weapon) - Hit opponent with particular weapon type
