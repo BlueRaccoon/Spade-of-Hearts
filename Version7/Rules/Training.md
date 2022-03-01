@@ -1,6 +1,6 @@
 # Training
 
-A character can learn new Techniques and Specialties outside of **[Advancement](/Advancement.md "Advancement: Get stronger through experience")** through **Training**.
+A character can learn new Techniques and Specialties outside of **[Advancement](./Advancement.md "Advancement: Get stronger through experience")** through **Training**.
 
 Training involves in-game study, observation, and practice. You must be able to observe the technique or specialty at work - seeing it in action, performing exhaustive research, creatively developing on your own skills, or having a **Master** to teach you.
 
@@ -16,7 +16,7 @@ Once on the road to learning, you need to devote time and energy to **Practice**
 - If you have a **Master** present - someone tutoring you in the technique - your Master draws as well - adding their ⭐Success to yours
   - Anyone willing can be a master - an NPC, another player, or a mysterious entity that appears only in your dreams
   - The **Master** draws not based on their own skill, but rather on their teaching ability. This can manifest in unusual Skill/Attribute conbinations, like `♥Fight` or `♦Empathy`.
-- You can **Push Yourself** to work even harder - Draw again (adding to your previous ⭐Success), but also take **[Strain](/Strain.md "Strain: Reduces one of your Attributes. Recover with Rest.")**
+- You can **Push Yourself** to work even harder - Draw again (adding to your previous ⭐Success), but also take **[Strain](./Strain.md "Strain: Reduces one of your Attributes. Recover with Rest.")**
   - When trying to fit a Training Session into a small or impractical block of time, you may be asked to **Push Yourself** from the outset - skipping the first draw entirely
   - Depending on the circumstances, you may be allowed to **Push Yourself** multiple times in one training session, and your Master may be able to as well.
 
@@ -33,7 +33,7 @@ In these situations, the GM may set a **Difficulty** - this is how much ⭐Succe
 
 ### Maximum Techniques
 
-You can only ever have as many **Trained Techniques** as you have learned techniques through **[Advancement](/Advancement.md "Advancement: Learn new Skills & grow stronger")**. *This includes Trained Specialties*
+You can only ever have as many **Trained Techniques** as you have learned techniques through **[Advancement](./Advancement.md "Advancement: Learn new Skills & grow stronger")**. *This includes Trained Specialties*
 
 ### Other Uses of Training
 
