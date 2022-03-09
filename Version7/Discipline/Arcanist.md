@@ -15,10 +15,10 @@ Arcanists can learn several means of "Inscription" - a special means of casting 
 
 ## Techniques
 
-### Spellcraft (♾Trait)
+### Spellcraft
 With a keen understanding of magic, you can cast magic using `[♦Mind+Arcane]` instead of the relevant School.
 
-### Inscribe Tome (♾Trait)
+### Inscribe Tome
 *You learn to Inscribe Spells into a Magic Tome, giving access to a huge breadth of knowledge at your fingertips*
 - The first time you learn to **Inscribe:**
   - You gain a special "*Scribe Mana*" for Inscription, equal to your `[♦Mind+Arcane+Knowledge]`.
@@ -39,7 +39,7 @@ With a keen understanding of magic, you can cast magic using `[♦Mind+Arcane]` 
   - Runes be re-used; they recharge on their own each day, or can be recharged using any source of Mana (like an Artifact)
   - Runes can be cast when touching whatever object the rune is inscribed upon. They can be made personal, or so that anyone can use them.
 
-## Inscribe Talisman
+### Inscribe Talisman
 *You learn to Inscribe Talismans, quickly scrawling portable wards and spells*
 - The first time you learn to **Inscribe**:
   - You gain a special "*Scribe Mana*" for Inscription, equal to your `[♦Mind+Arcane+Knowledge]`.
