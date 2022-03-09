@@ -9,7 +9,14 @@ Character Sheets can be found [Here](https://docs.google.com/spreadsheets/d/18g_
 ## Change Notes
 
 - **7.0.3** (Post "Kealohi's Chaos")
-  - The term "Spell Form" has proved to be difficult, and obfuscates the process of learning new magic. Looking to change how these terms are used.
+  - The term "Spell Form" has proved to be difficult, and obfuscates the process of learning new magic. Now referring to these as **Magic Techniques**
+  - Trying to reduce decision paralysis for unused Minor Actions. Allowing "Take a Breath" to recover 1 Health as a Quick Action.
+  - Renaming "**Vulnerable**" to "**Exposed**" - Exposed better captures the idea of leaving yourself open due to a momentary distraction.
+  - Reframing how Brawling/Control/Edge works.
+    - All attempts to Control a target always Draw against that target's Stability
+    - "👊Edge" momentarily reduces a target's "⚓Stability", and is gained by any unused or extra ⭐Stars
+  - Altering ⚔Defense & Ranged Attacks; Defense now applies to all Close/Nearby Attacks (Ranged & Melee)
+    - "Short", "Medium", "Long", and "Extreme" now refer to areas that are 1, 2, 3-4, 5-8 areas away.
 - **7.0.2** (After Proof-of-Concept Testing)
   - Moving towards using the term "**⭐Stars**" to describe Face Cards (in line with the symbols used in documentation).
     - "Faces" sounds worse, and added unexpected confusion about whether 'Aces' count as Faces.
