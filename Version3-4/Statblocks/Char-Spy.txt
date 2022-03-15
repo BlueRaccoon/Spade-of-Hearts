@@ -1,0 +1,37 @@
+=	=	=	=	=	=	=	=	=	=	=	=
+=	=	=	=		Spy			=	=	=	=
+=	=	=	=	=	=	=	=	=	=	=	=
+
+|	♣ 2 ♠ 2 	|	HP: 8	AP: - - -	Sz: Medium (3)	|
+|	♥ 3 ♦ 3 	|	SP: 6	AC: 11(12)	Spd: 30 		|
++4: Deception
++3: Enchant 	Security
++2: Stealth 	Empathy   	Perception 	
++1: Charm   	Medicine 	Athletic	Fight
+
+=	Magic Training (ILL, TRN, SCR)	=
+Magic Study : You can cast Spells using ♦Enchant. You learn the spell Cantrip.
+Magic Reserves : You gain 2♦ Spell Points. You recover 1 per hour of rest, or per 3 hours of activity.
+General Magic : You learn 2 Schools and 3 Spells, plus 1 additional School or Spell.
+Magic Knowledge : You gain ADV on Knowledge or Enchant checks when trying to understand or identify magic from a school you know.
+
+=	Grifter	=
+Impression: You can mimic the voice and posture of a person you have met or observed for at least 5 minutes.
+Impersonate: You have ADV on Deception checks to impersonate someone or adopt a false identity.
+Method: While you are maintaining a false identity, you gain ADV on Deception, Networking, Charm, and Presence checks against anyone fooled by your act.
+Forgery: If you spend at least 2 hours preparing a false identity, you have ADV on Craft, Knowledge, Finance, or Networking checks to forge documents or otherwise corroborate your identity.
+
+=	=	Spells [ILL SCR]	=	=
+Cantrip [Hologram, Floating Eye, Workman]
+Message [Secret Image, Listen]
+Disguise [Illusory Disguise]
+Thoughtsense [Mind Sense]
+Ambience [Trick Room, Panopticon]
+
+=	=	Equipment	=	=
+<+3> Shortsword : [ ♣♠Fgt Dmg:3(3); Rng:0-1; ] 
+<+3> Needle : [♠Med Dmg:1(♦+2); Rng:0-0; ] Fragile, Keen
+Fine Clothes: Charm+1 (Max 4)
+Shield Bracelet: Reaction:AP+5/Cover+2 (Once; Recharge with 2sp)
+Forgery Kit
+

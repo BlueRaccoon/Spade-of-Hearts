@@ -1,0 +1,34 @@
+=	=	=	=	=	=	=	=	=	=	=	=
+=	=	=	=	Titan Knight	=	=	=	=
+=	=	=	=	=	=	=	=	=	=	=	=
+
+|	♣ 4 ♠ 1 	|	HP: 10	AP: 6 2 3	Sz: Medium (3)	|
+|	♥ 3 ♦ 2 	|	SP: 5	AC: 9(11)	Spd: 20 		|
++4: Fight
++3: Will, Athletic
++2: Endure, Presence, Notice
++1: Survival, Security, 
+
+=	=	=	Militia Training	=	=	=
+Footwork		: You can move 5' without triggering an Opportunity Attack. This uses all of your remaining movement.
+Keep Distance	: When you successfully break a Grapple or Push a creature, you can make a Melee Attack as part of the same action.
+Armor Training	: Shields and Armor do not give you DISADV on Athletics checks. While wearing Medium or Heavy armor, gain +2 Medium Armor.
+Drills			: You can spend 1 hour training a group of people (up to 2x♥Presence) in either Fight, Aim, or Athletics. For the rest of that day, that group has +1 to that skill (to a max of +4). You can only train one group per day. Anyone who trains every day for a week keeps this bonus for one month.
+
+=	=	=	Magic Gift		=	=	=
+Born Magical	: You can cast Spells using ♥Will. you learn the spell Cantrip.
+Magic Reserves	: You gain ♥+♦ Spell Points. You recover 1 per hour of rest, or per 3 hours of activity.
+Specialized Magic	: You learn 1 School and 3 Spells, plus 1 additional School or Spell, or 3 additional SP.
+Exhaustive Magic	: When you are out of Spell Points, you can instead cast by taking 1 Exhaustion for each Spell Point you would otherwise spend.
+
+=	=	=	Equipment		=	=	=
+Full Plate		AP 6 - 3	Resist Push; ADV on Endure; DISADV to ♠, Perception, Operate;
+Tower Shield	Reaction: AP+3 / Resist Crit;	Cover+2, Resist Push/Grapple;	DISADV to ♠/Athletics; Speed-10;
+Hammer			1h	♣Fgt; Dmg:3(1d6);	Rng:0-5;	Small, Siege
+
+=	=	=	Spells			=	=	=
+Cantrip [Ert: Earth Cantrip]
+Barricade [Ert: Stonewall]
+Wave [Ert: Tremor]
+Spell Step [Ert: Stone Step]
+
