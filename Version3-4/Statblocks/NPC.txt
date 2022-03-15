@@ -1,0 +1,41 @@
+Ebony Reeves	
+    ♧3 ♤2	🞧 8	▣ 3 3 1 	🢁 3
+    ♡2 ♢3	🟐 2	⚔ 11(14)	➦ 6
+	Skills [T1: 20]
+		+4: Fgt
+		+3: End Ath
+		+2: Enc Per Sur
+		+1: Aim	Net Pre	*Hunting
+	Traits
+		Militia Training
+			Spend All Movement to move 1m, ignore Terrain & Free Attacks
+			After successful Push or Escape, Free Action Melee Attack
+			No [ATH] Penalty from Armor; Speed can't go below 4; +2MedAP;
+			Bonus: Shield Push deals 1(1)dmg
+	Gear
+		+7>Longsword	[♣♠Fgt]	[4(3)]	[1-1]	Versatile
+			↳(2h)		[♣♠Fgt]	[5(3)]	[1-1]	Versatile
+		+4>Longbow 		[♣♠Aim]	[4(♠)]	[3-8]	Planted(3)	Pierce(2)
+		Kite Shield		[Med]	Shield(3)	Defense(1)	Lock:ATH
+		Breastplate		[Hvy]	[3 - 1]
+		+5> Scroll		[T1 Fabricate TRN]
+
+
+==	ADRIUS HOLSTER	==
+♣2 ♠4 ♦3 ♥1 S:3 HP:6 AP:3 AC:13
++3 ATH, ENC
++2 FGT, NOT, STE
+
+Jagged Rapier: +6, R:1, 7dmg
+Brigand Knife: +6, R:0, 4dmg; Over3: Mug
+
+Counter: Attack of Opportunity as Reaction if attack misses you (if you didnt attack this turn)
+Backpedal: Reduce damage by 3 and Move 1 away (no diff terrain)
+Caster: Air; 4sp; cast at +6
+
+Burst (Air): T2 R:0-2
+- Targets roll [♣END or ♠ATH] or Push3/4, 3dmg, Prone
+Spire (Air): T2 R:2-4
+- ♠ATH vs SP or Push3. Knock Prone if landing on diff terrain.
+Shrapnel: T1; R:2-4; 1d6dmg; AOE1
+- +2: +1d6dmg

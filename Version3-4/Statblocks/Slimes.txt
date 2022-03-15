@@ -1,0 +1,34 @@
+
+Slimes are amorphous creatures made of a thick slimy gelatin-like substance. They typically live in caverns, dungeons, marshes, or other dark places.
+
+ECOLOGY: Slimes are fully omnivorous, feeding on carrion, plantlife, fungi, and smaller creatures. They search out food via smell, and thrive by being too toxic for most creatures to eat. Slimes require a diverse diet to survive, so rarely completely overrun an ecosystem.
+
+BIOLOGY: Slimes are generally a kind of simple Transmutation-elemental, which aids in their ability to break down most substances into food. The slime has a small central nucleus with a network of small tendrils that extend into the rest of the slime, which it uses to control and manipulate the slime. The nucleus or tendril quickly dry out and die when removed from the slime.
+
+HABITS: Slimes actively search out food via smell for most of their time, sleeping or entering hibernation for periods of less food. They reproduce after having reached a certain size, by generating a second nucleus and splitting off into smaller slimes.
+
+Slimes sometimes hunt as ambush predators, where they attempt to engulf the eyes, nose, or mouth of their prey. They have the ability to concentrate their dissolving ability for brief periods, which they attempt to reach the brain to subdue the creature (as skin and fur are too difficult to dissolve quickly).
+
+=	=	=	Small Slime	=	=	=
+╔═ 				╦═ Tier 0  ═╦═ Elemental(Transmutation)	════╗
+║	♣ 2 ♠ 2   	║ HP: 5   	║ AP: 4 - 2  	║ Sz: Small (2)	║
+║	♥ 1 ♦ 1   	║ SP: --  	║ AC: 12(13)  	║ Spd: 15   	║
+╠═══════════════╩═══════════╩═══════════════╩═══════════════╣
+║	+3: Perception, Stealth          						║
+║	+2: Athletics (Climb, Grapple)    						║
+╚═══════════════════════════════════════════════════════════╝
+░░	Stats	░░
+Immune	: Prone, Restrained, Suffocation/Mental damage
+Resist	: Slash/Blunt/Pierce/Acid damage
+Weak	: Fire/Ice/Cold damage
+Senses	: Extrasense(Smell/Taste; 60'); Blind;
+░░	Traits	░░
+Formless	: Can't be Flanked
+Ambush		: ADV to Stealth when perfectly still. Crit on 5/6 vs Unaware.
+Acid Touch	: Creatures in physical contact take 1d6 Acid dmg at the top of each round. Objects in contact are Deformed at the top of each round.
+Subsume		: Grapple prone targets as a free action
+SpiderClimb	: Able to climb walls/ceilings with Speed
+░░	Actions	░░
+<+4> Slam		: ⚔️[2(1)] 🏹[0-0] Grapple on hit
+<+4> Dissolve	: ⚔️[2(4)] ☠[♣♦Ath] Grapple Attack; Blind on injury; Bleed(1d6 Suffocate)
+
